@@ -17,7 +17,7 @@
     },
     "dependencies": {
       "JSONStream" : "x",
-      "duplexer" : "x,
+      "duplexer" : "x",
       "request" : "x"
     },
     "devDependencies": {
